@@ -1,4 +1,4 @@
-// This solution is inefficient as hell, however 4 fun I just wanted to write in a single line
+// This solution is inefficient as hell, however 4 fun I just wanted to write it in a single line
 
 const pairs = `82-82,8-83
 6-98,6-93
